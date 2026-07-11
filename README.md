@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Muhammad Zaka 👋
 
-<!--
-**MuhammadZaka7/MuhammadZaka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support | Desktop Support | Active Directory | Microsoft 365 | Windows 10/11
 
-Here are some ideas to get you started:
+I'm an IT Support professional with experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Active Directory
+- Microsoft 365
+- Windows 10/11
+- Linux
+- macOS
+- Networking
+- VPN
+- DNS
+- DHCP
+- Imaging & Deployment
+- Remote Support
+
+## Current Projects
+
+- Active Directory & Group Policy Lab
+
+- Windows Server Homelab
+
+- Enterprise Ticketing Simulation
+
+- Currently studying for CompTIA Network+

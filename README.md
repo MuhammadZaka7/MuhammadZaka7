@@ -1,4 +1,4 @@
-# Hi, I'm Zaka Muhammad 👋
+# Hi, I'm Zaka Muhammad 
 
 IT Support | Desktop Support | Active Directory | Microsoft 365 | Windows 10/11
 

@@ -21,7 +21,5 @@ I'm an IT Support professional with experience in:
 - Active Directory & Group Policy Lab
 
 - Windows Server Homelab
-
-- Enterprise Ticketing Simulation
-
+- 
 - Currently studying for CompTIA Network+

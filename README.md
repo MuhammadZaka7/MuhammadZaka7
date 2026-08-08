@@ -21,5 +21,5 @@ I'm an IT Support professional with experience in:
 - Active Directory & Group Policy Lab
 
 - Windows Server Homelab
-- 
+  
 - Currently studying for CompTIA Network+

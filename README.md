@@ -1,16 +1,15 @@
-# Hi, I'm Zaka Muhammad
+# Hi, I'm Zaka 
 
 I'm building a career in sales while developing my skills in technology. My long term goal is to help businesses and personal brands grow, starting by building and documenting my own.
 
 Based in NYC. Learning through projects, conversations, and putting feedback into practice.
 
-**[Visit my website: zakam.me](https://zakam.me)**
+**[Visit my website: viizaka.com](https://viizaka.com)**
 
 ## What I'm focused on
 
 - Developing my sales and communication skills through real experience
-- Studying for CompTIA Network+
-- Building practical projects with Python, networking, and Windows Server
+- Building practical projects with AI
 - Documenting my progress as I build my personal brand
 
 ## Projects
@@ -23,6 +22,6 @@ A Windows Server 2022 homelab covering Active Directory, DNS, Group Policy, file
 
 An employee performance tracker with XP, levels, and leaderboards, built with Python, Flask, PostgreSQL, and Docker.
 
-### [Personal Website](https://zakam.me)
+### [Personal Website](https://viizaka.com)
 
-My story, sales experience, books, and the people who helped me get started.
+My story
